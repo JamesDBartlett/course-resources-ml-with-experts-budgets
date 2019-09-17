@@ -1,0 +1,4 @@
+name: Run
+run:
+  pip install -r requirements.txt
+  jupyter notebook notebooks/1.0-full-model.ipynb
